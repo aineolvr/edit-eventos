@@ -3112,6 +3112,15 @@ tbody  td{
     height: 48px !important;
 }
 
+.mdc-floating-label--float-above {
+    top: -22px; 
+    font-size: 12px;
+    background-color: white;
+    padding: 0 4px;
+  
+    border-radius: 4px;
+  }
+
 
 @media screen and (max-width: 768px) {
 
